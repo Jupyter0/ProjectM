@@ -6,10 +6,6 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"E:/ProjectM/ProjectM/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
-				"E:/ProjectM/ProjectM/Content/ThirdPerson/Input/IMC_Default.uasset",
-				"E:/ProjectM/ProjectM/Content/ThirdPerson/Input/Actions/IA_Move.uasset",
-				"E:/ProjectM/ProjectM/Content/ThirdPerson/Input/Actions/IA_Look.uasset",
-				"E:/ProjectM/ProjectM/Content/ThirdPerson/Input/Actions/IA_Jump.uasset",
 				"E:/ProjectM/ProjectM/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"E:/ProjectM/ProjectM/Content/FirstPerson/Blueprints/BP_Pickup_Rifle.uasset",
 				"E:/ProjectM/ProjectM/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset",
@@ -80,7 +76,17 @@
 				"E:/ProjectM/ProjectM/Content/AnimStarterPack/UE5/UE5_Walk_Bwd_Rifle_Ironsights.uasset",
 				"E:/ProjectM/ProjectM/Content/AnimStarterPack/UE5/UE5_Walk_Fwd_Rifle_Ironsights.uasset",
 				"E:/ProjectM/ProjectM/Content/AnimStarterPack/UE5/UE5_Walk_Lt_Rifle_Ironsights.uasset",
-				"E:/ProjectM/ProjectM/Content/AnimStarterPack/UE5/UE5_Walk_Rt_Rifle_Ironsights.uasset"
+				"E:/ProjectM/ProjectM/Content/AnimStarterPack/UE5/UE5_Walk_Rt_Rifle_Ironsights.uasset",
+				"E:/ProjectM/ProjectM/Content/FirstPersonArms/Animations/FP_Idle.uasset",
+				"E:/ProjectM/ProjectM/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/GI/GZM47KS5FPIQH5TLSYC1ME.uasset",
+				"E:/ProjectM/ProjectM/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/P8/0GJ9TLQE2YKOIFZ6YHG33H.uasset",
+				"E:/ProjectM/ProjectM/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/CF/ZNIOCRD90Z70MMV9NMW778.uasset",
+				"E:/ProjectM/ProjectM/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/C8/Z38FT77DKZLKDXTQ7PZNM4.uasset",
+				"E:/ProjectM/ProjectM/Content/FirstPersonArms/Animations/FirstPerson_AnimBP.uasset",
+				"E:/ProjectM/ProjectM/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"E:/ProjectM/ProjectM/Content/ThirdPerson/Input/Actions/IA_Move.uasset",
+				"E:/ProjectM/ProjectM/Content/ThirdPerson/Input/Actions/IA_Look.uasset",
+				"E:/ProjectM/ProjectM/Content/ThirdPerson/Input/Actions/IA_Jump.uasset"
 			]
 		}
 	]
